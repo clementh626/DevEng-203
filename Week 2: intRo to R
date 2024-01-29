@@ -1,2 +1,6 @@
 install.packages("devtools")
 library(devtools)
+
+document()
+install()
+library(studypower)
